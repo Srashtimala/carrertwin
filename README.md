@@ -60,3 +60,4 @@ Career Twin acts as an AI mentor that:
 ## Team
 
 NIT Patna
+The Neophytes
